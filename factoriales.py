@@ -12,3 +12,6 @@ def factorial(n):
 
 n = int(input('Escribe un entero: '))
 print(factorial(n))
+a = True
+b = False
+print(a and b)
